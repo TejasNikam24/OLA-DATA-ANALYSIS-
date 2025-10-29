@@ -68,8 +68,11 @@ Key Insights
 🧠 Insights Summary
 
 ✅ Most users prefer Cash & UPI for payments.
+
 ✅ Prime Sedan rides have the highest revenue contribution.
+
 ✅ Cancellation rate is high and needs improvement through better driver assignment and communication.
+
 ✅ Ride volume remains consistent with periodic spikes on weekends.
 
 🖼️ Dashboard Preview
@@ -77,18 +80,6 @@ Key Insights
 2]Vehicle Type Analysis
 3]Revenue Dashboard
 4]Cancellation Analysis
-
-📂 Project Structure
-📁 OLA_Data_Analytics_Dashboard
-│
-├── 📊 OLA PROJECT DATASET CLEAN.csv
-├── 📈 PowerBI_Dashboard.pbix
-├── 🖼️ Screenshots/
-│   ├── Screenshot (13).png
-│   ├── Screenshot (14).png
-│   ├── Screenshot (15).png
-│   └── Screenshot (16).png
-└── 📘 README.md
 
 📢 Conclusion
 
@@ -98,5 +89,7 @@ It’s a perfect example of how data analytics can turn raw data into business i
 🧑‍💻 Author
 
 Tejas Nikam
+
 📍 Data Analyst | Power BI | Excel | SQL | Python
+
 📧 nikamtejas2402@gmail.com
